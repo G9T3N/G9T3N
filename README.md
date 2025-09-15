@@ -1,8 +1,7 @@
-
 # Hi, I'm Mr.Err 👋
 
 <p align="center">
-	<img src="https://avatars.githubusercontent.com/your-username?s=200" alt="avatar" width="160" style="border-radius:50%;" />
+	<img src="https://avatars.githubusercontent.com/G9T3N?s=200" alt="avatar" width="160" style="border-radius:50%;" />
 </p>
 
 <p align="center">✨ Creative tinkerer • bug whisperer • daytime coder</p>
@@ -10,13 +9,13 @@
 ---
 
 <p align="center">
-	<a href="https://github.com/your-username"><img alt="GitHub followers" src="https://img.shields.io/github/followers/your-username?label=follow&style=social"/></a>
-	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username"/>
+	<a href="https://github.com/G9T3N"><img alt="GitHub followers" src="https://img.shields.io/github/followers/G9T3N?label=follow&style=social"/></a>
+	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=G9T3N.G9T3N"/>
 </p>
 
 ## About Me
 
-- 🔭 Currently tinkering on: [Project Name](https://github.com/your-username/your-repo)
+- 🔭 Currently tinkering on: [Project Name](https://github.com/G9T3N/G9T3N)
 - 🌱 Learning: Advanced TypeScript, Distributed Systems, and the art of delightful APIs
 - 🎯 I love: clean abstractions, readable tests, and reliable CI
 - 💬 Ask me about: JavaScript, Python, APIs, DevOps, or weird edge-case bugs
@@ -52,8 +51,8 @@
 
 ## Featured Projects
 
-- [project-one](https://github.com/your-username/project-one) — One-line punchy description (what it solves).
-- [project-two](https://github.com/your-username/project-two) — One-line highlight (performance/scale/test-suite).
+- [project-one](https://github.com/G9T3N/project-one) — One-line punchy description (what it solves).
+- [project-two](https://github.com/G9T3N/project-two) — One-line highlight (performance/scale/test-suite).
 
 For more, see my pinned repos on my profile.
 
@@ -61,10 +60,10 @@ For more, see my pinned repos on my profile.
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G9T3N&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=G9T3N&show_icons=true&theme=radical)
 
-Replace `your-username` with your GitHub username in the URLs above to enable live stats.
+Replace `G9T3N` with your GitHub username in the URLs above to enable live stats.
 
 ---
 
@@ -78,7 +77,7 @@ Replace `your-username` with your GitHub username in the URLs above to enable li
 
 ## Customize & tips
 
-1. Set `your-username` in the avatar and stats URLs to show live data.
+1. Set `G9T3N` in the avatar and stats URLs to show live data.
 2. Replace project placeholders with real repos and short descriptions.
 3. Want a different ASCII figure or a custom SVG avatar? Tell me what style and I’ll add it.
 
@@ -88,4 +87,3 @@ If you'd like, I can:
 - Automatically insert your GitHub username, display name, email, and 2–4 featured projects if you provide them.
 
 Thanks for visiting — may your builds be green and your merge conflicts mild. 🚀
-
