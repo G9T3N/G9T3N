@@ -1,44 +1,70 @@
-# Hi, I'm [Your Name] 👋
 
-Welcome to my GitHub profile! I'm a software developer who loves building clean, maintainable, and well-tested software. I work across the full stack and enjoy learning new tools and techniques.
+# Hi, I'm Mr.Err 👋
+
+<p align="center">
+	<img src="https://avatars.githubusercontent.com/your-username?s=200" alt="avatar" width="160" style="border-radius:50%;" />
+</p>
+
+<p align="center">✨ Creative tinkerer • bug whisperer • daytime coder</p>
 
 ---
 
+<p align="center">
+	<a href="https://github.com/your-username"><img alt="GitHub followers" src="https://img.shields.io/github/followers/your-username?label=follow&style=social"/></a>
+	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username"/>
+</p>
+
 ## About Me
 
-- 🔭 I’m currently working on: [Project Name](https://github.com/your-username/your-repo)
-- 🌱 I’m learning: Advanced TypeScript, Distributed Systems
-- 👯 I’m open to collaborating on open-source projects and community tooling
-- 💬 Ask me about: JavaScript, Python, APIs, DevOps
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 🔭 Currently tinkering on: [Project Name](https://github.com/your-username/your-repo)
+- 🌱 Learning: Advanced TypeScript, Distributed Systems, and the art of delightful APIs
+- 🎯 I love: clean abstractions, readable tests, and reliable CI
+- 💬 Ask me about: JavaScript, Python, APIs, DevOps, or weird edge-case bugs
+- 📫 Reach me: [email@example.com](mailto:email@example.com)
+
+---
+
+## The Figure — Debugging Buddy
+
+<p align="center">
+	<pre>
+			.--.      .-'.      .--.
+		 /    \    /    \    /    \
+		| .--.|  |  .--.|  | .--. |
+		|(    )|  | (    )|  |(    )|
+		 \ '--'    \ '--'    \ '--'
+			`--'      `--'      `--'
+	</pre>
+	<figcaption>Fig.1 — The Debugging Buddy: small, patient, and surprisingly opinionated.</figcaption>
+</p>
 
 ---
 
 ## Skills
 
-- Languages: JavaScript, TypeScript, Python, HTML, CSS
-- Frameworks & Tools: React, Node.js, Express, Next.js, Docker, Git
-- Databases: PostgreSQL, MongoDB
+- Languages: JavaScript • TypeScript • Python
+- Frameworks & Tools: React • Next.js • Node.js • Docker • Git
+- Datastores: PostgreSQL • MongoDB
 
-> Tip: Replace the lists above with your actual skills and order them by expertise.
+> Tip: reorder or replace these with your top technologies.
 
 ---
 
 ## Featured Projects
 
-- [project-one](https://github.com/your-username/project-one) — Short one-line description of the project and tech used.
-- [project-two](https://github.com/your-username/project-two) — Short one-line description and notable achievement (tests, performance, users).
+- [project-one](https://github.com/your-username/project-one) — One-line punchy description (what it solves).
+- [project-two](https://github.com/your-username/project-two) — One-line highlight (performance/scale/test-suite).
 
-For more projects, check out my repositories or pinned repos on my profile.
+For more, see my pinned repos on my profile.
 
 ---
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-Replace `your-username` in the image URLs with your GitHub username to show live stats.
+Replace `your-username` with your GitHub username in the URLs above to enable live stats.
 
 ---
 
@@ -50,17 +76,16 @@ Replace `your-username` in the image URLs with your GitHub username to show live
 
 ---
 
-## Customize this README
+## Customize & tips
 
-1. Replace `[Your Name]`, `email@example.com`, and social links with your real information.
-2. Update the About, Skills, and Featured Projects sections with real content and links.
-3. If you want this to be a GitHub profile README, rename the file to `README.md` and ensure it's in a repo named exactly like your GitHub username.
+1. Set `your-username` in the avatar and stats URLs to show live data.
+2. Replace project placeholders with real repos and short descriptions.
+3. Want a different ASCII figure or a custom SVG avatar? Tell me what style and I’ll add it.
 
 If you'd like, I can:
 
-- Rename the file to `README.md` for you.
-- Add pinned repo suggestions or generate badges for specific languages/technologies.
+- Rename this file to `README.md` (recommended if this repo is your profile repo named after your username).
+- Automatically insert your GitHub username, display name, email, and 2–4 featured projects if you provide them.
 
----
+Thanks for visiting — may your builds be green and your merge conflicts mild. 🚀
 
-Thanks for stopping by! 🚀
