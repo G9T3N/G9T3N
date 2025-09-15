@@ -87,3 +87,71 @@ If you'd like, I can:
 - Automatically insert your GitHub username, display name, email, and 2–4 featured projects if you provide them.
 
 Thanks for visiting — may your builds be green and your merge conflicts mild. 🚀
+
+---
+
+## More Figures — Meet the Crew
+
+Here are a few companions who help me think through bugs and ideas.
+
+<p align="center">
+  <pre>
+	Worm (wriggle):
+		_
+	  / \
+	 / _ \
+	|.o '.|
+	|'._.'|
+	|     |
+  ,'|  | |`.
+ /  |  | |  \
+|,-'--|--'-.|
+  </pre>
+
+  <pre>
+	Robot (helper-bot):
+		,-----.
+	  [| o o |]
+		|  ^  |
+		| '-' |
+		`-----'
+		 /| |\
+		/_| |_\
+  </pre>
+
+  <pre>
+	Plant (office muse):
+		_/\_
+	  |    |
+	  |    |
+	  |____|
+		|  |
+	  /____\
+  </pre>
+
+  <figcaption>Fig.2 — Worm, Robot, and Plant: morale support for long debugging sessions.</figcaption>
+</p>
+
+---
+
+## Worm Init
+
+A playful init script to bring the Worm to life in README-land. This is purely decorative — no code is executed by GitHub.
+
+Usage examples (for README fun):
+
+```bash
+# Initialize the Worm (imaginary):
+worm init --name "Wriggly" --mode curious
+
+# Feed the Worm some ideas:
+worm feed --idea "faster tests" --priority high
+
+# Ask Worm for a patch suggestion:
+worm suggest --repo G9T3N --files "src/**"
+```
+
+Safety note: These are whimsical examples only. Do not run unknown scripts you find in READMEs without reviewing their source.
+
+---
+
