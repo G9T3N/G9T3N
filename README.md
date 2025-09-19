@@ -1,157 +1,101 @@
-# Hi, I'm Mr.Err 👋
+👋 Hello, I'm Wael Amrany (G9T3N)
 
-<p align="center">
-	<img src="https://avatars.githubusercontent.com/G9T3N?s=200" alt="avatar" width="160" style="border-radius:50%;" />
-</p>
-
-<p align="center">✨ Creative tinkerer • bug whisperer • daytime coder</p>
+Full-Stack Developer & Open Source Enthusiast
+Passionate about creating efficient, scalable solutions with modern web technologies. I enjoy working across the entire stack, from responsive UI design to robust backend systems and cloud infrastructure.
 
 ---
 
-<p align="center">
-	<a href="https://github.com/G9T3N"><img alt="GitHub followers" src="https://img.shields.io/github/followers/G9T3N?label=follow&style=social"/></a>
-	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=G9T3N.G9T3N"/>
-</p>
+🛠️ Technical Expertise
 
-## About Me
+Frontend Development:
+https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black
+https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white
+https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white
+https://img.shields.io/badge/WebGL-990000?style=flat&logo=webgl&logoColor=white
+https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white
 
-- 🔭 Currently tinkering on: [Project Name](https://github.com/G9T3N/G9T3N)
-- 🌱 Learning: Advanced TypeScript, Distributed Systems, and the art of delightful APIs
-- 🎯 I love: clean abstractions, readable tests, and reliable CI
-- 💬 Ask me about: JavaScript, Python, APIs, DevOps, or weird edge-case bugs
-- 📫 Reach me: [email@example.com](mailto:email@example.com)
+Styling & UI:
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white
+https://img.shields.io/badge/UnoCSS-333333?style=flat&logo=unocss&logoColor=white
+https://img.shields.io/badge/SASS-hotpink?style=flat&logo=sass&logoColor=white
+https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radix-ui&logoColor=white
 
----
+Backend Development:
+https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white
+https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white
+https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white
+https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white
 
-## The Figure — Debugging Buddy
+Mobile & Cross-Platform:
+https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white
+https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white
 
-<p align="center">
-	<pre>
-			.--.      .-'.      .--.
-		 /    \    /    \    /    \
-		| .--.|  |  .--.|  | .--. |
-		|(    )|  | (    )|  |(    )|
-		 \ '--'    \ '--'    \ '--'
-			`--'      `--'      `--'
-	</pre>
-	<figcaption>Fig.1 — The Debugging Buddy: small, patient, and surprisingly opinionated.</figcaption>
-</p>
+Databases:
+https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white
+https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
+https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white
 
----
+DevOps & Cloud:
+https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white
+https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white
+https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white
+https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black
+https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white
 
-## Skills
-
-- Languages: JavaScript • TypeScript • Python
-- Frameworks & Tools: React • Next.js • Node.js • Docker • Git
-- Datastores: PostgreSQL • MongoDB
-
-> Tip: reorder or replace these with your top technologies.
-
----
-
-## Featured Projects
-
-- [project-one](https://github.com/G9T3N/project-one) — One-line punchy description (what it solves).
-- [project-two](https://github.com/G9T3N/project-two) — One-line highlight (performance/scale/test-suite).
-
-For more, see my pinned repos on my profile.
+Tools & Workflow:
+https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
+https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white
+https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white
+https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white
 
 ---
 
-## GitHub Stats
+📊 GitHub Activity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G9T3N&layout=compact&theme=radical)
-![Stats](https://github-readme-stats.vercel.app/api?username=G9T3N&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=g9t3n&show_icons=true&theme=dark&hide_border=true&count_private=true
 
-Replace `G9T3N` with your GitHub username in the URLs above to enable live stats.
+https://github-readme-stats.vercel.app/api?username=wael-amrany&show_icons=true&theme=dark&hide_border=true&count_private=true
 
----
-
-## Get in touch
-
-- Email: `email@example.com`
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin)
+Top Languages:
+https://github-readme-stats.vercel.app/api/top-langs/?username=g9t3n&layout=compact&theme=dark&hide_border=true&hide=html,css
 
 ---
 
-## Customize & tips
+🎯 Current Focus
 
-1. Set `G9T3N` in the avatar and stats URLs to show live data.
-2. Replace project placeholders with real repos and short descriptions.
-3. Want a different ASCII figure or a custom SVG avatar? Tell me what style and I’ll add it.
-
-If you'd like, I can:
-
-- Rename this file to `README.md` (recommended if this repo is your profile repo named after your username).
-- Automatically insert your GitHub username, display name, email, and 2–4 featured projects if you provide them.
-
-Thanks for visiting — may your builds be green and your merge conflicts mild. 🚀
+· 🔭 Developing performant web applications with React & TypeScript
+· 🌱 Learning advanced Rust programming and systems design
+· 👯 Looking to collaborate on open source projects, especially WebGL/Three.js libraries
+· 💡 Experimenting with real-time applications and WebRTC
+· 🚀 Building cloud-native applications with Go and serverless architectures
 
 ---
 
-## More Figures — Meet the Crew
+📦 NPM Packages
 
-Here are a few companions who help me think through bugs and ideas.
+I maintain several open source packages on npm:
+https://img.shields.io/badge/NPM-g9t3n-CB3837?style=flat&logo=npm&logoColor=white
 
-<p align="center">
-  <pre>
-	Worm (wriggle):
-		_
-	  / \
-	 / _ \
-	|.o '.|
-	|'._.'|
-	|     |
-  ,'|  | |`.
- /  |  | |  \
-|,-'--|--'-.|
-  </pre>
+Some of my published packages include utilities for:
 
-  <pre>
-	Robot (helper-bot):
-		,-----.
-	  [| o o |]
-		|  ^  |
-		| '-' |
-		`-----'
-		 /| |\
-		/_| |_\
-  </pre>
-
-  <pre>
-	Plant (office muse):
-		_/\_
-	  |    |
-	  |    |
-	  |____|
-		|  |
-	  /____\
-  </pre>
-
-  <figcaption>Fig.2 — Worm, Robot, and Plant: morale support for long debugging sessions.</figcaption>
-</p>
+· React hooks and components
+· WebGL/Three.js helpers
+· Development tools and workflows
 
 ---
 
-## Worm Init
+🌐 Connect With Me
 
-A playful init script to bring the Worm to life in README-land. This is purely decorative — no code is executed by GitHub.
-
-Usage examples (for README fun):
-
-```bash
-# Initialize the Worm (imaginary):
-worm init --name "Wriggly" --mode curious
-
-# Feed the Worm some ideas:
-worm feed --idea "faster tests" --priority high
-
-# Ask Worm for a patch suggestion:
-worm suggest --repo G9T3N --files "src/**"
-```
-
-Safety note: These are whimsical examples only. Do not run unknown scripts you find in READMEs without reviewing their source.
+https://img.shields.io/badge/GitHub-g9t3n-181717?style=flat&logo=github&logoColor=white
+https://img.shields.io/badge/GitHub-wael--amrany-181717?style=flat&logo=github&logoColor=white
+https://img.shields.io/badge/NPM-g9t3n-CB3837?style=flat&logo=npm&logoColor=white
 
 ---
 
+"First, solve the problem. Then, write the code." - John Johnson
+
+---
+
+https://visitcount.itsvg.in/api?id=g9t3n&icon=0&color=0
+
+This README was crafted with attention to detail, just like my code.
