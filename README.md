@@ -1,101 +1,21 @@
-👋 Hello, I'm Wael Amrany (G9T3N)
+# 💫 About Me:
+🚀 About Me<br><br>Hi, I’m Wael Amrany 👋<br><br>💻 Passionate Full-Stack Web Developer with experience in building scalable websites and modern applications.<br><br>🛠️ Skilled in JavaScript, Node.js, React, Next.js, and TypeScript, with a strong focus on performance and clean code.<br><br>📦 Author of open-source packages on NPM.<br><br>🌐 Actively contributing on GitHub:<br><br>g9t3n → personal + open-source projects.<br><br>wael-amrany → experiments, prototypes, and learning repos.<br><br><br>🎯 Interested in web performance, API design, and open-source contributions.
 
-Full-Stack Developer & Open Source Enthusiast
-Passionate about creating efficient, scalable solutions with modern web technologies. I enjoy working across the entire stack, from responsive UI design to robust backend systems and cloud infrastructure.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/G9t3n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Check out Wael Alamrany’s profile on LinkedIn https://ye.linkedin.com/in/wael-alamrany-1557a5288) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waelalamrany7@gmail.com) 
 
-🛠️ Technical Expertise
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![UnoCSS](https://img.shields.io/badge/unocss-333333.svg?style=for-the-badge&logo=unocss&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=G9T3N&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=G9T3N&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=G9T3N&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Frontend Development:
-https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black
-https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white
-https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white
-https://img.shields.io/badge/WebGL-990000?style=flat&logo=webgl&logoColor=white
-https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white
-
-Styling & UI:
-https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white
-https://img.shields.io/badge/UnoCSS-333333?style=flat&logo=unocss&logoColor=white
-https://img.shields.io/badge/SASS-hotpink?style=flat&logo=sass&logoColor=white
-https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radix-ui&logoColor=white
-
-Backend Development:
-https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white
-https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white
-https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white
-https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white
-
-Mobile & Cross-Platform:
-https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white
-https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white
-
-Databases:
-https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white
-https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
-https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white
-
-DevOps & Cloud:
-https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white
-https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white
-https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white
-https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black
-https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white
-
-Tools & Workflow:
-https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
-https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white
-https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white
-https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=G9T3N&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=G9T3N&icon=0&color=0)](https://visitcount.itsvg.in)
 
-📊 GitHub Activity
-
-https://github-readme-stats.vercel.app/api?username=g9t3n&show_icons=true&theme=dark&hide_border=true&count_private=true
-
-https://github-readme-stats.vercel.app/api?username=wael-amrany&show_icons=true&theme=dark&hide_border=true&count_private=true
-
-Top Languages:
-https://github-readme-stats.vercel.app/api/top-langs/?username=g9t3n&layout=compact&theme=dark&hide_border=true&hide=html,css
-
----
-
-🎯 Current Focus
-
-· 🔭 Developing performant web applications with React & TypeScript
-· 🌱 Learning advanced Rust programming and systems design
-· 👯 Looking to collaborate on open source projects, especially WebGL/Three.js libraries
-· 💡 Experimenting with real-time applications and WebRTC
-· 🚀 Building cloud-native applications with Go and serverless architectures
-
----
-
-📦 NPM Packages
-
-I maintain several open source packages on npm:
-https://img.shields.io/badge/NPM-g9t3n-CB3837?style=flat&logo=npm&logoColor=white
-
-Some of my published packages include utilities for:
-
-· React hooks and components
-· WebGL/Three.js helpers
-· Development tools and workflows
-
----
-
-🌐 Connect With Me
-
-https://img.shields.io/badge/GitHub-g9t3n-181717?style=flat&logo=github&logoColor=white
-https://img.shields.io/badge/GitHub-wael--amrany-181717?style=flat&logo=github&logoColor=white
-https://img.shields.io/badge/NPM-g9t3n-CB3837?style=flat&logo=npm&logoColor=white
-
----
-
-"First, solve the problem. Then, write the code." - John Johnson
-
----
-
-https://visitcount.itsvg.in/api?id=g9t3n&icon=0&color=0
-
-This README was crafted with attention to detail, just like my code.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
