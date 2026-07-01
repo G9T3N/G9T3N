@@ -47,8 +47,8 @@ I am a passionate developer focused on building scalable, performant, and clean 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G9T3N&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G9T3N&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=G9T3N&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=G9T3N&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </div>
 <br>
 <div align="center">
