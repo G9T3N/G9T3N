@@ -54,7 +54,7 @@ I am a passionate developer focused on building scalable, performant, and clean 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=G9T3N&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%" />
+  <img src="https://YOUR_NEW_VERCEL_DOMAIN.vercel.app/?username=G9T3N&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%" />
 </div>
 
 ---
@@ -72,7 +72,5 @@ I am a passionate developer focused on building scalable, performant, and clean 
 <br>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=G9T3N&icon=0&color=0" alt="Profile Views">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=G9T3N&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
